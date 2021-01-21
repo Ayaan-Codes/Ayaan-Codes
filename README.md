@@ -1,10 +1,28 @@
 # **Ayaan SM.**
 
 - Full Stack Developer
+- CEO
+- Hardware Artist
 - Graphic Designer 
 - Editor
 
-I am a young entrepreneur who has coded since I was 8 years old! My main project over the years has been my company ACO, at the time this was last updated on the 21st Jan 2021 I have made 50 web apps and 75 virtual services. I am open to 3rd party orders and have been working on 3rd party projects. Feel free to contact me to say hello or to hire me for your projects! (I double as ACO Support so you may use the contact link to ask for support!)
+**Development**\
+I am a full stack developer who was been working with the language or the compnuters since I was 8 years old. I mainly use my knowladge of coding to create web apps and virtual services for my startup Company, ACO. To date (21/1/2021) I have made over 50 apps and 75 virtual services and have worked with 3rd party companies to provide AI integration, web development, and many other technical services.\
+You can hire me by clicking the (Hire Me!) link under this!
+
+**CEO**\
+I am the founder and CEO of ACO, I am a one man show from operations to customer support. ACO started as a project also when I Was around the age of 8 and from then has extended to where it is today.
+
+**Hardware Artist**\
+I am also good with hardware having fixed many devices and upgrading some of my own. I can work with phones, laptops, tabs, smart wathes, and anything in between! 
+
+**Graphic Design**\
+I am a graphic designer and 3D designer, I personaly make all logos, banners, and any other images and 3D objects related to ACO. My biggest project was making the props and items for the ACO Car Simulator.
+
+**Editor**\
+I am also an expirenced editor who has made a lot of animations, videos, and gifs for the use of ACO and myself. 
+
+---------
 
 **Contact & Links**\
 [Contact!](mailto:lazoshowaco@gmail.com)\
