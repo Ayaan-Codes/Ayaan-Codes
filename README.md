@@ -8,7 +8,7 @@ I am a young entrepreneur who has coded since I was 8 years old! My main project
 
 **Contact & Links**\
 [Contact!](mailto:lazoshowaco@gmail.com)\
-[Hire Me!](mailto:lazoshowaco@gmail.com)\
+[Hire Me!](mailto:lazoshowaco@gmail.com)
 
 **Website**\
 [Website](https://ayaan.smb.company/) 
