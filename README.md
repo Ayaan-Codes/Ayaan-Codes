@@ -33,7 +33,7 @@ I am also an expirenced editor who has made a lot of animations, videos, and gif
 
 ---------
 
-**Live Stats**\
+**Live Stats**
 
 ![GitHub metrics](https://metrics.lecoq.io/Ayaan-Codes)\
 
@@ -41,5 +41,5 @@ I am also an expirenced editor who has made a lot of animations, videos, and gif
 ![GitHub followers](https://img.shields.io/github/followers/Ayaan-Codes?label=Follow&style=social)\
 [Instagram](https://instagram.com/a_co_official)\
 [Twitter](https://twitter.com/ACO_company)\
-[More...](https://ayaan-codes.github.io/aco.co)\
+[More...](https://ayaan-codes.github.io/aco.co)
 
