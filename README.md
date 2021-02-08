@@ -30,3 +30,6 @@ I am also an expirenced editor who has made a lot of animations, videos, and gif
 
 **Website**\
 [Website](https://ayaan.smb.company/) 
+
+![GitHub metrics](https://metrics.lecoq.io/Ayaan-Codes)
+![GitHub followers](https://img.shields.io/github/followers/Ayaan-Codes?label=Follow&style=social)
