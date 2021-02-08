@@ -38,8 +38,5 @@ I am also an expirenced editor who has made a lot of animations, videos, and gif
 ![GitHub metrics](https://metrics.lecoq.io/Ayaan-Codes)\
 
 **Socials**\
-![GitHub followers](https://img.shields.io/github/followers/Ayaan-Codes?label=Follow&style=social)\
-[Instagram](https://instagram.com/a_co_official)\
-[Twitter](https://twitter.com/ACO_company)\
-[More...](https://ayaan-codes.github.io/aco.co)
+[ACO Media](https://ayaan-codes.github.io/aco.co)
 
