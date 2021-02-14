@@ -33,7 +33,7 @@ I am also an expirenced editor who has made a lot of animations, videos, and gif
 
 ---------
 
-**Live Stats**
+**Live Stats**\
 ![Ayaans' github stats](https://github-readme-stats.vercel.app/api?username=Ayaan-Codes&count_private=true&show_icons=true)
 
 **Socials**\
