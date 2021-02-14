@@ -34,8 +34,7 @@ I am also an expirenced editor who has made a lot of animations, videos, and gif
 ---------
 
 **Live Stats**
-
-![GitHub metrics](https://metrics.lecoq.io/Ayaan-Codes)\
+![Ayaans' github stats](https://github-readme-stats.vercel.app/api?username=Ayaan-Codes&count_private=true&show_icons=true)
 
 **Socials**\
 [ACO Media](https://ayaan-codes.github.io/aco.co)
