@@ -1,10 +1,12 @@
 # **Ayaan SM.**
 
-- Full Stack Developer
 - CEO
-- Hardware Artist
+- Full Stack Software Developer
+- Hardware Developer
 - Graphic Designer 
 - Editor
+- Animator
++ Many other amazing things!
 
 **Development**\
 I am a full stack developer who has been working with the language of the compnuters since I was 8 years old. I mainly use my knowledge of coding to create web apps and virtual services for my startup company, ACO. To date (21/1/2021) I have made over 50 apps and 75 virtual services and have worked with 3rd party companies to provide AI integration, web development, and many other technical services.\
